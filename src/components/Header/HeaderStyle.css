@@ -1,0 +1,17 @@
+.home{
+    background-image: url('../../Images/bg.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    height: 100vh;
+    position: relative;
+}
+
+.text-overlay {
+  position: absolute;
+  color: white;
+  text-align: center;
+}
+
+input::placeholder{
+    color:aqua;
+}
